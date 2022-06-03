@@ -1,0 +1,724 @@
+dset,model,sparsity,seed,val_acc,
+aircraft,Dense,0.0,seed_21,0.8362
+aircraft,Dense,0.0,seed_23,0.8326
+aircraft,Dense,0.0,seed_41,0.8397
+aircraft,AC/DC,0.8,seed_23,0.8326
+aircraft,AC/DC,0.8,seed_25,0.8346
+aircraft,AC/DC,0.8,seed_21,0.8319
+aircraft,AC/DC,0.9,seed_21,0.8391
+aircraft,AC/DC,0.9,seed_23,0.8217
+aircraft,AC/DC,0.9,seed_25,0.8236
+aircraft,AC/DC,0.95,seed_21,0.8155
+aircraft,AC/DC,0.95,seed_23,0.8075
+aircraft,AC/DC,0.95,seed_25,0.8133
+aircraft,RigL ERK 1x,0.9,seed_25,0.7904
+aircraft,RigL ERK 1x,0.9,seed_27,0.7868
+aircraft,RigL ERK 1x,0.9,seed_29,0.7904
+aircraft,RigL ERK 5x,0.9,seed_25,0.8173
+aircraft,RigL ERK 5x,0.9,seed_27,0.8104
+aircraft,RigL ERK 5x,0.9,seed_29,0.8009
+aircraft,RigL ERK 1x,0.8,seed_25,0.7972
+aircraft,RigL ERK 1x,0.8,seed_27,0.8042
+aircraft,RigL ERK 1x,0.8,seed_29,0.793
+aircraft,RigL ERK 5x,0.8,seed_25,0.8073
+aircraft,RigL ERK 5x,0.8,seed_27,0.8007
+aircraft,RigL ERK 5x,0.8,seed_29,0.8007
+aircraft,RigL ERK 1x,0.95,seed_25,0.7825
+aircraft,RigL ERK 1x,0.95,seed_27,0.7879
+aircraft,RigL ERK 1x,0.95,seed_29,0.7771
+aircraft,RigL ERK 5x,0.95,seed_25,0.7984
+aircraft,RigL ERK 5x,0.95,seed_27,0.7971
+aircraft,RigL ERK 5x,0.95,seed_29,0.7951
+aircraft,LTH-T,0.8,seed_31,0.8454
+aircraft,LTH-T,0.8,seed_33,0.844
+aircraft,LTH-T,0.8,seed_35,0.853
+aircraft,LTH-T,0.9,seed_31,0.8522
+aircraft,LTH-T,0.9,seed_33,0.8473
+aircraft,LTH-T,0.9,seed_35,0.8466
+aircraft,LTH-T,0.95,seed_31,0.8175
+aircraft,LTH-T,0.95,seed_33,0.8345
+aircraft,LTH-T,0.95,seed_35,0.8259
+aircraft,STR,0.8,seed_11,0.7969
+aircraft,STR,0.8,seed_13,0.796
+aircraft,STR,0.8,seed_15,0.8009
+aircraft,STR,0.9,seed_11,0.7822
+aircraft,STR,0.9,seed_13,0.7909
+aircraft,STR,0.9,seed_15,0.7885
+aircraft,STR,0.95,seed_11,0.7623
+aircraft,STR,0.95,seed_13,0.762
+aircraft,STR,0.95,seed_15,0.7761
+aircraft,STR,0.98,seed_11,0.7192
+aircraft,STR,0.98,seed_13,0.7195
+aircraft,STR,0.98,seed_15,0.7228
+aircraft,WoodFisher,0.8,seed_23,0.85
+aircraft,WoodFisher,0.8,seed_25,0.846
+aircraft,WoodFisher,0.8,seed_21,0.8469
+aircraft,WoodFisher,0.9,seed_23,0.8429
+aircraft,WoodFisher,0.9,seed_25,0.8496
+aircraft,WoodFisher,0.9,seed_21,0.8434
+aircraft,WoodFisher,0.95,seed_21,0.8388
+aircraft,WoodFisher,0.95,seed_25,0.8293
+aircraft,WoodFisher,0.95,seed_23,0.8412
+birds,Dense,0.0,seed_21,0.7241
+birds,Dense,0.0,seed_25,0.7201
+birds,Dense,0.0,seed_23,0.7266
+birds,AC/DC,0.8,seed_21,0.697
+birds,AC/DC,0.8,seed_23,0.7006
+birds,AC/DC,0.8,seed_25,0.6988
+birds,AC/DC,0.9,seed_21,0.6852
+birds,AC/DC,0.9,seed_23,0.6847
+birds,AC/DC,0.9,seed_25,0.6836
+birds,AC/DC,0.95,seed_21,0.6676
+birds,AC/DC,0.95,seed_23,0.6696
+birds,AC/DC,0.95,seed_25,0.6687
+birds,RigL ERK 1x,0.9,seed_25,0.6858
+birds,RigL ERK 1x,0.9,seed_29,0.6818
+birds,RigL ERK 1x,0.9,seed_27,0.6831
+birds,RigL ERK 5x,0.9,seed_29,0.7164
+birds,RigL ERK 5x,0.9,seed_25,0.714
+birds,RigL ERK 5x,0.9,seed_27,0.7142
+birds,RigL ERK 1x,0.8,seed_25,0.7027
+birds,RigL ERK 1x,0.8,seed_29,0.7021
+birds,RigL ERK 1x,0.8,seed_27,0.704
+birds,RigL ERK 5x,0.8,seed_25,0.7206
+birds,RigL ERK 5x,0.8,seed_29,0.7239
+birds,RigL ERK 5x,0.8,seed_27,0.719
+birds,RigL ERK 1x,0.95,seed_25,0.6664
+birds,RigL ERK 1x,0.95,seed_29,0.6632
+birds,RigL ERK 1x,0.95,seed_27,0.6676
+birds,RigL ERK 5x,0.95,seed_25,0.7049
+birds,RigL ERK 5x,0.95,seed_29,0.694
+birds,RigL ERK 5x,0.95,seed_27,0.6982
+birds,LTH-T,0.8,seed_31,0.7134
+birds,LTH-T,0.8,seed_33,0.7128
+birds,LTH-T,0.8,seed_35,0.7153
+birds,LTH-T,0.9,seed_31,0.6797
+birds,LTH-T,0.9,seed_33,0.6764
+birds,LTH-T,0.9,seed_35,0.678
+birds,LTH-T,0.95,seed_31,0.6204
+birds,LTH-T,0.95,seed_33,0.6228
+birds,LTH-T,0.95,seed_35,0.6215
+birds,STR,0.8,seed_11,0.6813
+birds,STR,0.8,seed_13,0.6794
+birds,STR,0.8,seed_15,0.6817
+birds,STR,0.9,seed_11,0.66
+birds,STR,0.9,seed_13,0.6583
+birds,STR,0.9,seed_15,0.6627
+birds,STR,0.95,seed_11,0.6238
+birds,STR,0.95,seed_13,0.6222
+birds,STR,0.95,seed_15,0.6216
+birds,STR,0.98,seed_11,0.5402
+birds,STR,0.98,seed_13,0.5411
+birds,STR,0.98,seed_15,0.5415
+birds,WoodFisher,0.8,seed_21,0.7259
+birds,WoodFisher,0.8,seed_23,0.72
+birds,WoodFisher,0.8,seed_25,0.727
+birds,WoodFisher,0.9,seed_21,0.7183
+birds,WoodFisher,0.9,seed_23,0.7153
+birds,WoodFisher,0.9,seed_25,0.7144
+birds,WoodFisher,0.95,seed_21,0.6997
+birds,WoodFisher,0.95,seed_23,0.6977
+birds,WoodFisher,0.95,seed_85,0.7
+caltech101,Dense,0.0,seed_21,0.936
+caltech101,Dense,0.0,seed_23,0.9338
+caltech101,Dense,0.0,seed_41,0.9341
+caltech101,AC/DC,0.8,seed_21,0.9262
+caltech101,AC/DC,0.8,seed_41,0.9266
+caltech101,AC/DC,0.8,seed_23,0.9237
+caltech101,AC/DC,0.9,seed_21,0.9256
+caltech101,AC/DC,0.9,seed_41,0.9276
+caltech101,AC/DC,0.9,seed_23,0.9236
+caltech101,AC/DC,0.95,seed_21,0.9185
+caltech101,AC/DC,0.95,seed_25,0.9217
+caltech101,AC/DC,0.95,seed_23,0.9171
+caltech101,RigL ERK 1x,0.9,seed_25,0.9045
+caltech101,RigL ERK 1x,0.9,seed_29,0.8984
+caltech101,RigL ERK 1x,0.9,seed_27,0.9034
+caltech101,RigL ERK 5x,0.9,seed_29,0.9149
+caltech101,RigL ERK 5x,0.9,seed_25,0.9034
+caltech101,RigL ERK 5x,0.9,seed_27,0.9156
+caltech101,RigL ERK 1x,0.8,seed_25,0.9127
+caltech101,RigL ERK 1x,0.8,seed_29,0.9109
+caltech101,RigL ERK 1x,0.8,seed_27,0.916
+caltech101,RigL ERK 5x,0.8,seed_25,0.9035
+caltech101,RigL ERK 5x,0.8,seed_29,0.902
+caltech101,RigL ERK 5x,0.8,seed_27,0.9039
+caltech101,RigL ERK 1x,0.95,seed_25,0.8844
+caltech101,RigL ERK 1x,0.95,seed_29,0.8835
+caltech101,RigL ERK 1x,0.95,seed_27,0.8933
+caltech101,RigL ERK 5x,0.95,seed_25,0.9042
+caltech101,RigL ERK 5x,0.95,seed_29,0.9071
+caltech101,RigL ERK 5x,0.95,seed_27,0.9028
+caltech101,LTH-T,0.8,seed_31,0.9249
+caltech101,LTH-T,0.8,seed_33,0.9157
+caltech101,LTH-T,0.8,seed_35,0.9214
+caltech101,LTH-T,0.9,seed_31,0.847
+caltech101,LTH-T,0.9,seed_33,0.8447
+caltech101,LTH-T,0.9,seed_35,0.842
+caltech101,LTH-T,0.95,seed_31,0.6571
+caltech101,LTH-T,0.95,seed_33,0.6588
+caltech101,LTH-T,0.95,seed_35,0.6441
+caltech101,STR,0.8,seed_11,0.9076
+caltech101,STR,0.8,seed_13,0.9137
+caltech101,STR,0.8,seed_15,0.9011
+caltech101,STR,0.9,seed_11,0.9105
+caltech101,STR,0.9,seed_13,0.9052
+caltech101,STR,0.9,seed_15,0.9106
+caltech101,STR,0.95,seed_11,0.8986
+caltech101,STR,0.95,seed_13,0.8975
+caltech101,STR,0.95,seed_15,0.8966
+caltech101,STR,0.98,seed_11,0.8456
+caltech101,STR,0.98,seed_13,0.8582
+caltech101,STR,0.98,seed_15,0.8534
+caltech101,WoodFisher,0.8,seed_21,0.9342
+caltech101,WoodFisher,0.8,seed_41,0.9344
+caltech101,WoodFisher,0.8,seed_23,0.9379
+caltech101,WoodFisher,0.9,seed_23,0.9409
+caltech101,WoodFisher,0.9,seed_21,0.9401
+caltech101,WoodFisher,0.9,seed_25,0.9351
+caltech101,WoodFisher,0.95,seed_23,0.9225
+caltech101,WoodFisher,0.95,seed_25,0.9166
+caltech101,WoodFisher,0.95,seed_21,0.9206
+caltech256,Dense,0.0,seed_21,0.8607
+caltech256,Dense,0.0,seed_25,0.862
+caltech256,Dense,0.0,seed_41,0.8595
+caltech256,AC/DC,0.8,seed_21,0.8553
+caltech256,AC/DC,0.8,seed_23,0.854
+caltech256,AC/DC,0.8,seed_25,0.8516
+caltech256,AC/DC,0.9,seed_21,0.8487
+caltech256,AC/DC,0.9,seed_23,0.8473
+caltech256,AC/DC,0.9,seed_25,0.8484
+caltech256,AC/DC,0.95,seed_21,0.8314
+caltech256,AC/DC,0.95,seed_23,0.8314
+caltech256,AC/DC,0.95,seed_25,0.8311
+caltech256,RigL ERK 1x,0.9,seed_25,0.8169
+caltech256,RigL ERK 1x,0.9,seed_29,0.8191
+caltech256,RigL ERK 1x,0.9,seed_27,0.8184
+caltech256,RigL ERK 5x,0.9,seed_29,0.8283
+caltech256,RigL ERK 5x,0.9,seed_25,0.8319
+caltech256,RigL ERK 5x,0.9,seed_27,0.8308
+caltech256,RigL ERK 1x,0.8,seed_25,0.8298
+caltech256,RigL ERK 1x,0.8,seed_29,0.8288
+caltech256,RigL ERK 1x,0.8,seed_27,0.8296
+caltech256,RigL ERK 5x,0.8,seed_25,0.8325
+caltech256,RigL ERK 5x,0.8,seed_29,0.833
+caltech256,RigL ERK 5x,0.8,seed_27,0.8311
+caltech256,RigL ERK 1x,0.95,seed_25,0.8006
+caltech256,RigL ERK 1x,0.95,seed_29,0.8021
+caltech256,RigL ERK 1x,0.95,seed_27,0.8011
+caltech256,RigL ERK 5x,0.95,seed_25,0.8203
+caltech256,RigL ERK 5x,0.95,seed_29,0.8215
+caltech256,RigL ERK 5x,0.95,seed_27,0.8204
+caltech256,LTH-T,0.8,seed_31,0.8309
+caltech256,LTH-T,0.8,seed_33,0.8303
+caltech256,LTH-T,0.8,seed_35,0.8316
+caltech256,LTH-T,0.9,seed_31,0.7865
+caltech256,LTH-T,0.9,seed_33,0.7857
+caltech256,LTH-T,0.9,seed_35,0.7852
+caltech256,LTH-T,0.95,seed_31,0.7155
+caltech256,LTH-T,0.95,seed_33,0.7176
+caltech256,LTH-T,0.95,seed_35,0.7221
+caltech256,STR,0.8,seed_11,0.8408
+caltech256,STR,0.8,seed_13,0.8395
+caltech256,STR,0.8,seed_15,0.8399
+caltech256,STR,0.9,seed_11,0.8287
+caltech256,STR,0.9,seed_13,0.8322
+caltech256,STR,0.9,seed_15,0.8311
+caltech256,STR,0.95,seed_11,0.8023
+caltech256,STR,0.95,seed_13,0.8023
+caltech256,STR,0.95,seed_15,0.8031
+caltech256,STR,0.98,seed_11,0.7421
+caltech256,STR,0.98,seed_13,0.7419
+caltech256,STR,0.98,seed_15,0.7425
+caltech256,WoodFisher,0.8,seed_21,0.8488
+caltech256,WoodFisher,0.8,seed_23,0.8504
+caltech256,WoodFisher,0.8,seed_25,0.8501
+caltech256,WoodFisher,0.9,seed_21,0.8411
+caltech256,WoodFisher,0.9,seed_23,0.8403
+caltech256,WoodFisher,0.9,seed_25,0.8388
+caltech256,WoodFisher,0.95,seed_23,0.8245
+caltech256,WoodFisher,0.95,seed_25,0.8253
+caltech256,WoodFisher,0.95,seed_31,0.8235
+cars,Dense,0.0,seed_21,0.9015
+cars,Dense,0.0,seed_23,0.9016
+cars,Dense,0.0,seed_25,0.9054
+cars,AC/DC,0.8,seed_21,0.8917
+cars,AC/DC,0.8,seed_23,0.8926
+cars,AC/DC,0.8,seed_25,0.8927
+cars,AC/DC,0.9,seed_21,0.8852
+cars,AC/DC,0.9,seed_23,0.8833
+cars,AC/DC,0.9,seed_25,0.8877
+cars,AC/DC,0.95,seed_21,0.877
+cars,AC/DC,0.95,seed_23,0.8766
+cars,AC/DC,0.95,seed_25,0.8754
+cars,RigL ERK 1x,0.9,seed_25,0.8616
+cars,RigL ERK 1x,0.9,seed_27,0.8712
+cars,RigL ERK 1x,0.9,seed_29,0.8673
+cars,RigL ERK 5x,0.9,seed_25,0.8703
+cars,RigL ERK 5x,0.9,seed_27,0.8733
+cars,RigL ERK 5x,0.9,seed_29,0.8794
+cars,RigL ERK 1x,0.8,seed_25,0.8801
+cars,RigL ERK 1x,0.8,seed_27,0.8768
+cars,RigL ERK 1x,0.8,seed_29,0.8764
+cars,RigL ERK 5x,0.8,seed_25,0.8786
+cars,RigL ERK 5x,0.8,seed_27,0.883
+cars,RigL ERK 5x,0.8,seed_29,0.875
+cars,RigL ERK 1x,0.95,seed_25,0.856
+cars,RigL ERK 1x,0.95,seed_27,0.8598
+cars,RigL ERK 1x,0.95,seed_29,0.8533
+cars,RigL ERK 5x,0.95,seed_25,0.8703
+cars,RigL ERK 5x,0.95,seed_27,0.8666
+cars,RigL ERK 5x,0.95,seed_29,0.871
+cars,LTH-T,0.8,seed_21,0.899
+cars,LTH-T,0.8,seed_23,0.8995
+cars,LTH-T,0.8,seed_25,0.8995
+cars,LTH-T,0.9,seed_21,0.8944
+cars,LTH-T,0.9,seed_23,0.8958
+cars,LTH-T,0.9,seed_25,0.8939
+cars,LTH-T,0.95,seed_21,0.8748
+cars,LTH-T,0.95,seed_23,0.8719
+cars,LTH-T,0.95,seed_25,0.8792
+cars,STR,0.8,seed_11,0.8765
+cars,STR,0.8,seed_13,0.8787
+cars,STR,0.8,seed_15,0.8779
+cars,STR,0.9,seed_11,0.8663
+cars,STR,0.9,seed_13,0.8668
+cars,STR,0.9,seed_15,0.8692
+cars,STR,0.95,seed_11,0.8506
+cars,STR,0.95,seed_13,0.8484
+cars,STR,0.95,seed_15,0.847
+cars,STR,0.98,seed_11,0.7947
+cars,STR,0.98,seed_13,0.804
+cars,STR,0.98,seed_15,0.7998
+cars,WoodFisher,0.8,seed_21,0.902
+cars,WoodFisher,0.8,seed_23,0.9061
+cars,WoodFisher,0.8,seed_25,0.9061
+cars,WoodFisher,0.9,seed_21,0.8988
+cars,WoodFisher,0.9,seed_23,0.9027
+cars,WoodFisher,0.9,seed_25,0.8989
+cars,WoodFisher,0.95,seed_21,0.8911
+cars,WoodFisher,0.95,seed_23,0.8894
+cars,WoodFisher,0.95,seed_25,0.8879
+cifar10,Dense,0.0,seed_21,0.9737
+cifar10,Dense,0.0,seed_23,0.9743
+cifar10,Dense,0.0,seed_25,0.9734
+cifar10,AC/DC,0.8,seed_21,0.9696
+cifar10,AC/DC,0.8,seed_23,0.9686
+cifar10,AC/DC,0.8,seed_25,0.9684
+cifar10,AC/DC,0.9,seed_21,0.9657
+cifar10,AC/DC,0.9,seed_23,0.9667
+cifar10,AC/DC,0.9,seed_25,0.966
+cifar10,AC/DC,0.95,seed_21,0.9617
+cifar10,AC/DC,0.95,seed_23,0.9624
+cifar10,AC/DC,0.95,seed_25,0.9628
+cifar10,RigL ERK 1x,0.9,seed_25,0.9562
+cifar10,RigL ERK 1x,0.9,seed_29,0.9547
+cifar10,RigL ERK 1x,0.9,seed_27,0.9539
+cifar10,RigL ERK 5x,0.9,seed_29,0.9612
+cifar10,RigL ERK 5x,0.9,seed_25,0.9603
+cifar10,RigL ERK 5x,0.9,seed_27,0.9612
+cifar10,RigL ERK 1x,0.8,seed_25,0.9611
+cifar10,RigL ERK 1x,0.8,seed_29,0.9581
+cifar10,RigL ERK 1x,0.8,seed_27,0.959
+cifar10,RigL ERK 5x,0.8,seed_25,0.9622
+cifar10,RigL ERK 5x,0.8,seed_29,0.9631
+cifar10,RigL ERK 5x,0.8,seed_27,0.96
+cifar10,RigL ERK 1x,0.95,seed_25,0.9487
+cifar10,RigL ERK 1x,0.95,seed_29,0.952
+cifar10,RigL ERK 1x,0.95,seed_27,0.9494
+cifar10,RigL ERK 5x,0.95,seed_25,0.9591
+cifar10,RigL ERK 5x,0.95,seed_29,0.9575
+cifar10,RigL ERK 5x,0.95,seed_27,0.9581
+cifar10,LTH-T,0.8,seed_31,0.9705
+cifar10,LTH-T,0.8,seed_51,0.9699
+cifar10,LTH-T,0.8,seed_53,0.9693
+cifar10,LTH-T,0.8,seed_55,0.9701
+cifar10,LTH-T,0.9,seed_51,0.9674
+cifar10,LTH-T,0.9,seed_53,0.964
+cifar10,LTH-T,0.9,seed_55,0.9655
+cifar10,LTH-T,0.95,seed_51,0.9537
+cifar10,LTH-T,0.95,seed_53,0.9551
+cifar10,LTH-T,0.95,seed_55,0.9558
+cifar10,STR,0.8,seed_11,0.9658
+cifar10,STR,0.8,seed_13,0.964
+cifar10,STR,0.8,seed_15,0.966
+cifar10,STR,0.9,seed_11,0.9617
+cifar10,STR,0.9,seed_13,0.9604
+cifar10,STR,0.9,seed_15,0.961
+cifar10,STR,0.95,seed_11,0.9538
+cifar10,STR,0.95,seed_13,0.955
+cifar10,STR,0.95,seed_15,0.9545
+cifar10,STR,0.98,seed_11,0.9384
+cifar10,STR,0.98,seed_13,0.9374
+cifar10,STR,0.98,seed_15,0.9386
+cifar10,WoodFisher,0.8,seed_21,0.9705
+cifar10,WoodFisher,0.8,seed_23,0.9722
+cifar10,WoodFisher,0.8,seed_25,0.9731
+cifar10,WoodFisher,0.9,seed_21,0.971
+cifar10,WoodFisher,0.9,seed_23,0.9696
+cifar10,WoodFisher,0.9,seed_71,0.9691
+cifar10,WoodFisher,0.95,seed_21,0.9688
+cifar10,WoodFisher,0.95,seed_23,0.9663
+cifar10,WoodFisher,0.95,seed_25,0.9665
+cifar100,Dense,0.0,seed_21,0.8581
+cifar100,Dense,0.0,seed_23,0.856
+cifar100,Dense,0.0,seed_25,0.855
+cifar100,AC/DC,0.8,seed_21,0.8503
+cifar100,AC/DC,0.8,seed_23,0.8472
+cifar100,AC/DC,0.8,seed_25,0.849
+cifar100,AC/DC,0.9,seed_21,0.8376
+cifar100,AC/DC,0.9,seed_23,0.8395
+cifar100,AC/DC,0.9,seed_47,0.84
+cifar100,AC/DC,0.95,seed_21,0.8275
+cifar100,AC/DC,0.95,seed_23,0.8292
+cifar100,AC/DC,0.95,seed_25,0.8292
+cifar100,RigL ERK 1x,0.9,seed_25,0.7991
+cifar100,RigL ERK 1x,0.9,seed_29,0.7954
+cifar100,RigL ERK 1x,0.9,seed_27,0.7954
+cifar100,RigL ERK 5x,0.9,seed_29,0.8016
+cifar100,RigL ERK 5x,0.9,seed_25,0.8078
+cifar100,RigL ERK 5x,0.9,seed_27,0.8097
+cifar100,RigL ERK 1x,0.8,seed_25,0.8063
+cifar100,RigL ERK 1x,0.8,seed_29,0.8076
+cifar100,RigL ERK 1x,0.8,seed_27,0.8112
+cifar100,RigL ERK 5x,0.8,seed_25,0.8123
+cifar100,RigL ERK 5x,0.8,seed_29,0.8103
+cifar100,RigL ERK 5x,0.8,seed_27,0.8121
+cifar100,RigL ERK 1x,0.95,seed_25,0.7867
+cifar100,RigL ERK 1x,0.95,seed_29,0.782
+cifar100,RigL ERK 1x,0.95,seed_27,0.7878
+cifar100,RigL ERK 5x,0.95,seed_25,0.7951
+cifar100,RigL ERK 5x,0.95,seed_29,0.7942
+cifar100,RigL ERK 5x,0.95,seed_27,0.7956
+cifar100,LTH-T,0.8,seed_51,0.8425
+cifar100,LTH-T,0.8,seed_53,0.8458
+cifar100,LTH-T,0.8,seed_55,0.8449
+cifar100,LTH-T,0.9,seed_51,0.8297
+cifar100,LTH-T,0.9,seed_53,0.8305
+cifar100,LTH-T,0.9,seed_55,0.829
+cifar100,LTH-T,0.95,seed_51,0.8007
+cifar100,LTH-T,0.95,seed_53,0.7999
+cifar100,LTH-T,0.95,seed_55,0.7981
+cifar100,STR,0.8,seed_11,0.8352
+cifar100,STR,0.8,seed_13,0.838
+cifar100,STR,0.8,seed_15,0.8343
+cifar100,STR,0.9,seed_11,0.8286
+cifar100,STR,0.9,seed_13,0.8268
+cifar100,STR,0.9,seed_15,0.8305
+cifar100,STR,0.95,seed_11,0.808
+cifar100,STR,0.95,seed_13,0.8073
+cifar100,STR,0.95,seed_15,0.8128
+cifar100,STR,0.98,seed_11,0.7581
+cifar100,STR,0.98,seed_13,0.7619
+cifar100,STR,0.98,seed_15,0.7576
+cifar100,WoodFisher,0.8,seed_21,0.8528
+cifar100,WoodFisher,0.8,seed_23,0.85
+cifar100,WoodFisher,0.8,seed_25,0.851
+cifar100,WoodFisher,0.9,seed_21,0.8453
+cifar100,WoodFisher,0.9,seed_23,0.8416
+cifar100,WoodFisher,0.9,seed_71,0.8456
+cifar100,WoodFisher,0.95,seed_21,0.8307
+cifar100,WoodFisher,0.95,seed_23,0.832
+cifar100,WoodFisher,0.95,seed_25,0.8301
+dtd,Dense,0.0,seed_21,0.7644
+dtd,Dense,0.0,seed_23,0.759
+dtd,Dense,0.0,seed_25,0.7628
+dtd,AC/DC,0.8,seed_21,0.7532
+dtd,AC/DC,0.8,seed_23,0.7553
+dtd,AC/DC,0.8,seed_25,0.7628
+dtd,AC/DC,0.9,seed_21,0.7527
+dtd,AC/DC,0.9,seed_23,0.75
+dtd,AC/DC,0.9,seed_25,0.7521
+dtd,AC/DC,0.95,seed_21,0.7378
+dtd,AC/DC,0.95,seed_23,0.7463
+dtd,AC/DC,0.95,seed_25,0.7404
+dtd,RigL ERK 1x,0.9,seed_25,0.7186
+dtd,RigL ERK 1x,0.9,seed_29,0.7186
+dtd,RigL ERK 1x,0.9,seed_27,0.7191
+dtd,RigL ERK 5x,0.9,seed_29,0.733
+dtd,RigL ERK 5x,0.9,seed_25,0.7351
+dtd,RigL ERK 5x,0.9,seed_27,0.7356
+dtd,RigL ERK 1x,0.8,seed_25,0.7271
+dtd,RigL ERK 1x,0.8,seed_29,0.7314
+dtd,RigL ERK 1x,0.8,seed_27,0.7282
+dtd,RigL ERK 5x,0.8,seed_25,0.725
+dtd,RigL ERK 5x,0.8,seed_29,0.7293
+dtd,RigL ERK 5x,0.8,seed_27,0.7293
+dtd,RigL ERK 1x,0.95,seed_25,0.7128
+dtd,RigL ERK 1x,0.95,seed_29,0.7197
+dtd,RigL ERK 1x,0.95,seed_27,0.7138
+dtd,RigL ERK 5x,0.95,seed_25,0.7181
+dtd,RigL ERK 5x,0.95,seed_29,0.7186
+dtd,RigL ERK 5x,0.95,seed_27,0.7223
+dtd,LTH-T,0.8,seed_31,0.75
+dtd,LTH-T,0.8,seed_33,0.7569
+dtd,LTH-T,0.8,seed_35,0.75
+dtd,LTH-T,0.9,seed_31,0.7181
+dtd,LTH-T,0.9,seed_33,0.7197
+dtd,LTH-T,0.9,seed_35,0.7202
+dtd,LTH-T,0.95,seed_31,0.6633
+dtd,LTH-T,0.95,seed_33,0.6787
+dtd,LTH-T,0.95,seed_35,0.6697
+dtd,STR,0.8,seed_11,0.734
+dtd,STR,0.8,seed_13,0.7441
+dtd,STR,0.8,seed_15,0.734
+dtd,STR,0.9,seed_11,0.7309
+dtd,STR,0.9,seed_13,0.7362
+dtd,STR,0.9,seed_15,0.7277
+dtd,STR,0.95,seed_11,0.7223
+dtd,STR,0.95,seed_13,0.7261
+dtd,STR,0.95,seed_15,0.7298
+dtd,STR,0.98,seed_11,0.692
+dtd,STR,0.98,seed_13,0.692
+dtd,STR,0.98,seed_15,0.6968
+dtd,WoodFisher,0.8,seed_21,0.7516
+dtd,WoodFisher,0.8,seed_23,0.7516
+dtd,WoodFisher,0.8,seed_25,0.7532
+dtd,WoodFisher,0.9,seed_21,0.7399
+dtd,WoodFisher,0.9,seed_23,0.7505
+dtd,WoodFisher,0.9,seed_25,0.7548
+dtd,WoodFisher,0.95,seed_25,0.7362
+dtd,WoodFisher,0.95,seed_21,0.741
+dtd,WoodFisher,0.95,seed_23,0.7346
+food101,Dense,0.0,seed_25,0.8719
+food101,Dense,0.0,seed_21,0.8728
+food101,Dense,0.0,seed_23,0.8728
+food101,AC/DC,0.8,seed_25,0.868
+food101,AC/DC,0.8,seed_23,0.8698
+food101,AC/DC,0.8,seed_45,0.8689
+food101,AC/DC,0.8,seed_47,0.8676
+food101,AC/DC,0.9,seed_21,0.867
+food101,AC/DC,0.9,seed_25,0.8662
+food101,AC/DC,0.9,seed_23,0.8651
+food101,AC/DC,0.95,seed_21,0.8547
+food101,AC/DC,0.95,seed_23,0.8545
+food101,AC/DC,0.95,seed_25,0.8551
+food101,RigL ERK 1x,0.9,seed_25,0.845
+food101,RigL ERK 1x,0.9,seed_29,0.8472
+food101,RigL ERK 1x,0.9,seed_27,0.8454
+food101,RigL ERK 5x,0.9,seed_29,0.8595
+food101,RigL ERK 5x,0.9,seed_25,0.8622
+food101,RigL ERK 5x,0.9,seed_27,0.8594
+food101,RigL ERK 1x,0.8,seed_25,0.8576
+food101,RigL ERK 1x,0.8,seed_29,0.8573
+food101,RigL ERK 1x,0.8,seed_27,0.8566
+food101,RigL ERK 5x,0.8,seed_29,0.8604
+food101,RigL ERK 5x,0.8,seed_25,0.8601
+food101,RigL ERK 5x,0.8,seed_27,0.8591
+food101,RigL ERK 1x,0.95,seed_25,0.837
+food101,RigL ERK 1x,0.95,seed_29,0.8394
+food101,RigL ERK 1x,0.95,seed_27,0.8377
+food101,RigL ERK 5x,0.95,seed_25,0.852
+food101,RigL ERK 5x,0.95,seed_29,0.8523
+food101,RigL ERK 5x,0.95,seed_27,0.8515
+food101,LTH-T,0.8,seed_41,0.869
+food101,LTH-T,0.8,seed_43,0.869
+food101,LTH-T,0.8,seed_45,0.8699
+food101,LTH-T,0.9,seed_21,0.8641
+food101,LTH-T,0.9,seed_23,0.8636
+food101,LTH-T,0.9,seed_25,0.865
+food101,LTH-T,0.95,seed_21,0.8534
+food101,LTH-T,0.95,seed_23,0.8531
+food101,LTH-T,0.95,seed_25,0.8553
+food101,STR,0.8,seed_11,0.8604
+food101,STR,0.8,seed_13,0.8585
+food101,STR,0.8,seed_15,0.859
+food101,STR,0.9,seed_11,0.8481
+food101,STR,0.9,seed_13,0.8478
+food101,STR,0.9,seed_15,0.8482
+food101,STR,0.95,seed_11,0.8296
+food101,STR,0.95,seed_13,0.8314
+food101,STR,0.95,seed_15,0.8285
+food101,STR,0.98,seed_11,0.7778
+food101,STR,0.98,seed_13,0.7803
+food101,STR,0.98,seed_15,0.7795
+food101,WoodFisher,0.8,seed_25,0.8756
+food101,WoodFisher,0.8,seed_23,0.8739
+food101,WoodFisher,0.8,seed_21,0.8729
+food101,WoodFisher,0.9,seed_25,0.8691
+food101,WoodFisher,0.9,seed_23,0.8708
+food101,WoodFisher,0.9,seed_21,0.8707
+food101,WoodFisher,0.95,seed_21,0.8638
+food101,WoodFisher,0.95,seed_23,0.863
+food101,WoodFisher,0.95,seed_25,0.8623
+pets,Dense,0.0,seed_21,0.9351
+pets,Dense,0.0,seed_23,0.9344
+pets,Dense,0.0,seed_25,0.9334
+pets,AC/DC,0.8,seed_21,0.9258
+pets,AC/DC,0.8,seed_23,0.9252
+pets,AC/DC,0.8,seed_25,0.9251
+pets,AC/DC,0.8,seed_41,0.925
+pets,AC/DC,0.9,seed_21,0.9206
+pets,AC/DC,0.9,seed_23,0.9213
+pets,AC/DC,0.9,seed_25,0.92
+pets,AC/DC,0.95,seed_21,0.9115
+pets,AC/DC,0.95,seed_23,0.9104
+pets,AC/DC,0.95,seed_27,0.9096
+pets,RigL ERK 1x,0.9,seed_25,0.9074
+pets,RigL ERK 1x,0.9,seed_29,0.9037
+pets,RigL ERK 1x,0.9,seed_27,0.9081
+pets,RigL ERK 5x,0.9,seed_29,0.9145
+pets,RigL ERK 5x,0.9,seed_25,0.9189
+pets,RigL ERK 5x,0.9,seed_27,0.9165
+pets,RigL ERK 1x,0.8,seed_25,0.9168
+pets,RigL ERK 1x,0.8,seed_29,0.9176
+pets,RigL ERK 1x,0.8,seed_27,0.921
+pets,RigL ERK 5x,0.8,seed_29,0.9143
+pets,RigL ERK 5x,0.8,seed_25,0.9246
+pets,RigL ERK 5x,0.8,seed_27,0.9174
+pets,RigL ERK 1x,0.95,seed_25,0.8972
+pets,RigL ERK 1x,0.95,seed_29,0.8958
+pets,RigL ERK 1x,0.95,seed_27,0.8979
+pets,RigL ERK 5x,0.95,seed_25,0.9108
+pets,RigL ERK 5x,0.95,seed_29,0.9102
+pets,RigL ERK 5x,0.95,seed_27,0.9115
+pets,LTH-T,0.8,seed_31,0.9286
+pets,LTH-T,0.8,seed_33,0.9277
+pets,LTH-T,0.8,seed_35,0.9298
+pets,LTH-T,0.9,seed_31,0.9119
+pets,LTH-T,0.9,seed_33,0.9092
+pets,LTH-T,0.9,seed_35,0.9119
+pets,LTH-T,0.95,seed_31,0.8479
+pets,LTH-T,0.95,seed_33,0.8479
+pets,LTH-T,0.95,seed_35,0.8394
+pets,STR,0.8,seed_11,0.9221
+pets,STR,0.8,seed_13,0.9205
+pets,STR,0.8,seed_15,0.9198
+pets,STR,0.9,seed_11,0.9186
+pets,STR,0.9,seed_13,0.9152
+pets,STR,0.9,seed_15,0.9162
+pets,STR,0.95,seed_11,0.9023
+pets,STR,0.95,seed_13,0.8983
+pets,STR,0.95,seed_15,0.896
+pets,STR,0.98,seed_11,0.8557
+pets,STR,0.98,seed_13,0.8535
+pets,STR,0.98,seed_15,0.8559
+pets,WoodFisher,0.8,seed_21,0.932
+pets,WoodFisher,0.8,seed_23,0.9335
+pets,WoodFisher,0.8,seed_25,0.9363
+pets,WoodFisher,0.9,seed_21,0.9254
+pets,WoodFisher,0.9,seed_23,0.9304
+pets,WoodFisher,0.9,seed_25,0.9262
+pets,WoodFisher,0.95,seed_25,0.9206
+pets,WoodFisher,0.95,seed_27,0.9228
+pets,WoodFisher,0.95,seed_41,0.9266
+SUN,Dense,0.0,seed_21,0.6478
+SUN,Dense,0.0,seed_25,0.6479
+SUN,Dense,0.0,seed_23,0.6484
+SUN,AC/DC,0.8,seed_21,0.6396
+SUN,AC/DC,0.8,seed_25,0.6399
+SUN,AC/DC,0.8,seed_23,0.6391
+SUN,AC/DC,0.9,seed_21,0.6292
+SUN,AC/DC,0.9,seed_25,0.6295
+SUN,AC/DC,0.9,seed_23,0.6301
+SUN,AC/DC,0.95,seed_21,0.6156
+SUN,AC/DC,0.95,seed_23,0.6125
+SUN,AC/DC,0.95,seed_25,0.615
+SUN,RigL ERK 1x,0.9,seed_25,0.556
+SUN,RigL ERK 1x,0.9,seed_29,0.551
+SUN,RigL ERK 1x,0.9,seed_27,0.5508
+SUN,RigL ERK 5x,0.9,seed_29,0.5532
+SUN,RigL ERK 5x,0.9,seed_25,0.5515
+SUN,RigL ERK 5x,0.9,seed_27,0.5523
+SUN,RigL ERK 1x,0.8,seed_25,0.5689
+SUN,RigL ERK 1x,0.8,seed_29,0.5572
+SUN,RigL ERK 1x,0.8,seed_27,0.5606
+SUN,RigL ERK 5x,0.8,seed_25,0.5537
+SUN,RigL ERK 5x,0.8,seed_29,0.5509
+SUN,RigL ERK 5x,0.8,seed_27,0.5588
+SUN,RigL ERK 1x,0.95,seed_25,0.5405
+SUN,RigL ERK 1x,0.95,seed_29,0.5331
+SUN,RigL ERK 1x,0.95,seed_27,0.5386
+SUN,RigL ERK 5x,0.95,seed_25,0.5477
+SUN,RigL ERK 5x,0.95,seed_29,0.5423
+SUN,RigL ERK 5x,0.95,seed_27,0.5454
+SUN,LTH-T,0.8,seed_21,0.619
+SUN,LTH-T,0.8,seed_23,0.6145
+SUN,LTH-T,0.8,seed_25,0.6173
+SUN,LTH-T,0.9,seed_21,0.5825
+SUN,LTH-T,0.9,seed_23,0.5809
+SUN,LTH-T,0.9,seed_25,0.5855
+SUN,LTH-T,0.95,seed_21,0.5133
+SUN,LTH-T,0.95,seed_23,0.5111
+SUN,LTH-T,0.95,seed_25,0.5163
+SUN,STR,0.8,seed_11,0.6272
+SUN,STR,0.8,seed_13,0.6268
+SUN,STR,0.8,seed_15,0.6251
+SUN,STR,0.9,seed_11,0.6115
+SUN,STR,0.9,seed_13,0.6122
+SUN,STR,0.9,seed_15,0.6115
+SUN,STR,0.95,seed_11,0.5904
+SUN,STR,0.95,seed_13,0.5895
+SUN,STR,0.95,seed_15,0.5886
+SUN,STR,0.98,seed_11,0.5365
+SUN,STR,0.98,seed_13,0.5396
+SUN,STR,0.98,seed_15,0.5382
+SUN,WoodFisher,0.8,seed_21,0.6284
+SUN,WoodFisher,0.8,seed_25,0.6289
+SUN,WoodFisher,0.8,seed_23,0.6271
+SUN,WoodFisher,0.9,seed_21,0.6238
+SUN,WoodFisher,0.9,seed_25,0.6223
+SUN,WoodFisher,0.9,seed_23,0.6229
+SUN,WoodFisher,0.95,seed_21,0.608
+SUN,WoodFisher,0.95,seed_23,0.6095
+SUN,WoodFisher,0.95,seed_25,0.6092
+flowers,Dense,0.0,seed_21,0.9495
+flowers,Dense,0.0,seed_23,0.9495
+flowers,Dense,0.0,seed_25,0.9514
+flowers,AC/DC,0.8,seed_21,0.9471
+flowers,AC/DC,0.8,seed_23,0.9491
+flowers,AC/DC,0.8,seed_25,0.945
+flowers,AC/DC,0.9,seed_21,0.9474
+flowers,AC/DC,0.9,seed_23,0.9462
+flowers,AC/DC,0.9,seed_25,0.9456
+flowers,AC/DC,0.95,seed_21,0.9397
+flowers,AC/DC,0.95,seed_23,0.9401
+flowers,AC/DC,0.95,seed_41,0.9443
+flowers,RigL ERK 1x,0.9,seed_25,0.9462
+flowers,RigL ERK 1x,0.9,seed_29,0.9483
+flowers,RigL ERK 1x,0.9,seed_27,0.9493
+flowers,RigL ERK 5x,0.9,seed_29,0.9583
+flowers,RigL ERK 5x,0.9,seed_25,0.9569
+flowers,RigL ERK 5x,0.9,seed_27,0.9568
+flowers,RigL ERK 1x,0.8,seed_25,0.9544
+flowers,RigL ERK 1x,0.8,seed_29,0.9527
+flowers,RigL ERK 1x,0.8,seed_27,0.9514
+flowers,RigL ERK 5x,0.8,seed_29,0.9581
+flowers,RigL ERK 5x,0.8,seed_25,0.9596
+flowers,RigL ERK 5x,0.8,seed_27,0.9552
+flowers,RigL ERK 1x,0.95,seed_25,0.9475
+flowers,RigL ERK 1x,0.95,seed_29,0.9428
+flowers,RigL ERK 1x,0.95,seed_27,0.9445
+flowers,RigL ERK 5x,0.95,seed_25,0.9565
+flowers,RigL ERK 5x,0.95,seed_29,0.9579
+flowers,RigL ERK 5x,0.95,seed_27,0.9589
+flowers,LTH-T,0.8,seed_31,0.9394
+flowers,LTH-T,0.8,seed_33,0.9373
+flowers,LTH-T,0.8,seed_35,0.9407
+flowers,LTH-T,0.9,seed_31,0.898
+flowers,LTH-T,0.9,seed_33,0.8959
+flowers,LTH-T,0.9,seed_35,0.8999
+flowers,LTH-T,0.95,seed_31,0.7527
+flowers,LTH-T,0.95,seed_33,0.7747
+flowers,LTH-T,0.95,seed_35,0.7523
+flowers,STR,0.8,seed_11,0.9371
+flowers,STR,0.8,seed_13,0.9347
+flowers,STR,0.8,seed_15,0.9394
+flowers,STR,0.9,seed_11,0.9294
+flowers,STR,0.9,seed_13,0.9379
+flowers,STR,0.9,seed_15,0.9356
+flowers,STR,0.95,seed_11,0.9319
+flowers,STR,0.95,seed_13,0.9315
+flowers,STR,0.95,seed_15,0.9257
+flowers,STR,0.98,seed_11,0.921
+flowers,STR,0.98,seed_13,0.9167
+flowers,STR,0.98,seed_15,0.9151
+flowers,WoodFisher,0.8,seed_21,0.9567
+flowers,WoodFisher,0.8,seed_23,0.955
+flowers,WoodFisher,0.8,seed_25,0.9525
+flowers,WoodFisher,0.9,seed_21,0.9529
+flowers,WoodFisher,0.9,seed_23,0.9528
+flowers,WoodFisher,0.9,seed_25,0.958
+flowers,WoodFisher,0.95,seed_21,0.952
+flowers,WoodFisher,0.95,seed_23,0.947
+flowers,WoodFisher,0.95,seed_25,0.9499

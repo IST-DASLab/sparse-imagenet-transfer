@@ -1,0 +1,15 @@
+
+trainers:
+  # use this trainer name unless you want KD or other custom thing
+  default_trainer:
+    optimizer:
+      class: SGD    
+      lr: 0.001
+      momentum: 0.9
+      weight_decay: 0.0005
+
+    lr_scheduler:
+      class: ExponentialLR
+      gamma: 0.1
+      epochs: [50, 50, 150]
+

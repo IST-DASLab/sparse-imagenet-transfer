@@ -1,0 +1,3 @@
+load_modules: [initial_conv, conv1, bn1, layer1, layer2, layer3, layer4]
+freeze_modules: [initial_conv, conv1, bn1, layer1, layer2, layer3, layer4]
+
